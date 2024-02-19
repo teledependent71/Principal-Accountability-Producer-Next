@@ -1,0 +1,27 @@
+{
+  "name": "principal-accountability-producer",
+  "version": "1.0.0",
+  "description": "A next project generated based on a UIDL document",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "author": "TeleportHQ",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.1.10",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "@teleporthq/react-components": "latest",
+    "@teleporthq/cms-mappers": "latest",
+    "prop-types": "15.7.2",
+    "@caisy/rich-text-react-renderer": "0.7.3"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "devDependencies": {}
+}
